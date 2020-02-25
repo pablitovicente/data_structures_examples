@@ -1,0 +1,26 @@
+{
+  "name": "data_structures_examples",
+  "version": "1.0.0",
+  "description": "A refresher of common data structures and its associated algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablitovicente/data_structures_examples.git"
+  },
+  "author": "Pablo Vicente",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pablitovicente/data_structures_examples/issues"
+  },
+  "homepage": "https://github.com/pablitovicente/data_structures_examples#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "6.8.0",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-plugin-import": "2.20.1"
+  }
+}
